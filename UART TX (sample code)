@@ -35,7 +35,7 @@ int main(void) {
     USART2_Init(); // Initialize USART2
 
     while (1) {
-        USART2_SendChar('h');  // Send character 'A'
+        USART2_SendChar('A');  // Send character 'A'
        
 		}
 }
